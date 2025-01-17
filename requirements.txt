@@ -1,11 +1,8 @@
 streamlit
 pandas
 numpy
+yfinance
 plotly
-faker
-scipy
+ta
 scikit-learn
-prophet
-reportlab
-xlsxwriter
-streamlit-plotly-events
+scipy
