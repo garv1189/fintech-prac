@@ -6,3 +6,22 @@ numpy
 tensorflow
 scikit-learn
 time
+streamlit==1.31.0
+yfinance==0.2.36
+
+
+@@ -1,5 +1,11 @@
+faker
+scipy
+scikit-learn
+prophet
+reportlab
+xlsxwriter
+streamlit-plotly-events
+
+@@ -1,11 +1,8 @@
+ta
+scikit-learn
+prophet
+reportlab
+
